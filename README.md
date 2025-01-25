@@ -38,3 +38,22 @@ Este projeto tem como objetivo **prever a inadimplência em operações de créd
 - `fase_1_mvp/`: Código e análise do MVP.  
 - `fase_2_aprimoramento/`: Engenharia de features avançada e MLOps.  
 - `fase_3_refinamento/`: Dashboards e documentação técnica.  
+
+## 🚀 Como Executar
+Clone o repositório:  
+```bash  
+git clone https://github.com/rpmeira/CreditRiskML  
+```
+
+### Fase 1 - MVP
+1. Instale dependências com UV:
+   ```bash  
+   cd CreditRiskML/fase_1_mvp  
+   uv pip install -r requirements.txt
+   ```
+2. Execute a API Flask:
+   ```bash  
+   python app.py
+   ```
+
+---
