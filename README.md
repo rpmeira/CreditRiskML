@@ -13,7 +13,7 @@
 
 ---
 
-![CI](https://github.com/rpmeira/CreditRiskML/actions/workflows/ci.yml/badge.svg) 
+![CI](https://github.com/rpmeira/CreditRiskML/actions/workflows/ci.yml/badge.svg)  
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)  
 ![Python](https://img.shields.io/badge/python-3.9%20%7C%203.10-blue)  
 

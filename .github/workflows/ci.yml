@@ -1,4 +1,4 @@
-name: CI Pipeline
+name: MVP (Fase 1)
 
 on:
   push:  
