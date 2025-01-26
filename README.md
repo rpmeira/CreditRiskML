@@ -61,3 +61,6 @@ git clone https://github.com/rpmeira/CreditRiskML
    ```
 
 ---
+
+## 📜 Licença  
+Este projeto está licenciado sob a [Licença MIT](LICENSE.md).
